@@ -1,20 +1,37 @@
 p {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
+    color: rgb(8, 8, 82);
 }
 h1 {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
 }
 h2 {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
 }
 h3 {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
 }
 h4 {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
 }
 h5 {
+    font-family: "Permanent Marker", system-ui;
     text-align: center;
+}
+ol{
+    font-family: "Permanent Marker", system-ui;
+}
+ul {
+    font-family: "Permanent Marker", system-ui;
+}
+a {
+    font-family: "Permanent Marker", system-ui;
+    color: blueviolet;
 }
 body {
     background-color: 	#748cab;
@@ -23,5 +40,7 @@ hr {
     border-color: black;
 }
 img {
-    margin-left: 500px;
+    border: solid white 5px;
+    margin-left: 495px;
 }
+  
