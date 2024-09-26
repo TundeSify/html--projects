@@ -2,8 +2,10 @@ p {
     font-family: "Permanent Marker", system-ui;
     text-align: center;
     color: rgb(8, 8, 82);
+    padding: 20px;
 }
 h1 {
+    padding: 20px;
     font-family: "Permanent Marker", system-ui;
     text-align: center;
 }
