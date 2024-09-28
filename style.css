@@ -32,8 +32,12 @@ ul {
     font-family: "Permanent Marker", system-ui;
 }
 a {
+    border: solid black;
+    background-color: #3A6D8C;
+    padding: 10px;
     font-family: "Permanent Marker", system-ui;
-    color: red;
+    color: #001F3F;
+    text-align: center;
 }
 body {
     background-color: 	#748cab;
@@ -42,7 +46,6 @@ hr {
     border-color: black;
 }
 img {
-    border: solid white 5px;
-    margin-left: 495px;
+    border: solid #3A6D8C 5px;
 }
   
